@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93DEF32-F288-400F-9AC9-04E12CDAADD3}|Api\\Api.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93DEF32-F288-400F-9AC9-04E12CDAADD3}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93DEF32-F288-400F-9AC9-04E12CDAADD3}|Api\\Api.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93DEF32-F288-400F-9AC9-04E12CDAADD3}|Api\\Api.csproj|solutionrelative:api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB1595-B307-48C2-92CD-9AE74E29245A}|Teste\\Teste.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\teste\\scoreservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB1595-B307-48C2-92CD-9AE74E29245A}|Teste\\Teste.csproj|solutionrelative:teste\\scoreservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB1595-B307-48C2-92CD-9AE74E29245A}|Teste\\Teste.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\teste\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB1595-B307-48C2-92CD-9AE74E29245A}|Teste\\Teste.csproj|solutionrelative:teste\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\infra\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|solutionrelative:infra\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\infra\\interface\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|solutionrelative:infra\\interface\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\infra\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|solutionrelative:infra\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\infra\\context\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8194-9CBD-4355-9B86-9A1662D88F5F}|Infra\\Infra.csproj|solutionrelative:infra\\context\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\service\\utilservice\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|solutionrelative:service\\utilservice\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\service\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|solutionrelative:service\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\service\\service\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|solutionrelative:service\\service\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\service\\interface\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|solutionrelative:service\\interface\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\service\\interface\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B885A42F-4D07-4844-88CC-940C22F8198D}|Service\\Service.csproj|solutionrelative:service\\interface\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93DEF32-F288-400F-9AC9-04E12CDAADD3}|Api\\Api.csproj|c:\\users\\gabri\\source\\repos\\projetoscoreuser\\api\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93DEF32-F288-400F-9AC9-04E12CDAADD3}|Api\\Api.csproj|solutionrelative:api\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:45:21.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "Infra\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:44.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Interface\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Interface\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Interface\\IClienteRepository.cs",
+              "RelativeToolTip": "Infra\\Interface\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:41.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Infra\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Infra\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Context\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Infra\\Context\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Infra\\Context\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "Infra\\Context\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\UtilService\\Util.cs",
+              "RelativeDocumentMoniker": "Service\\UtilService\\Util.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\UtilService\\Util.cs",
+              "RelativeToolTip": "Service\\UtilService\\Util.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:27.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Teste\\ClienteServiceTests.cs",
+              "RelativeDocumentMoniker": "Teste\\ClienteServiceTests.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Teste\\ClienteServiceTests.cs",
+              "RelativeToolTip": "Teste\\ClienteServiceTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwFMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:59:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Teste\\ScoreServiceTests.cs",
+              "RelativeDocumentMoniker": "Teste\\ScoreServiceTests.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Teste\\ScoreServiceTests.cs",
+              "RelativeToolTip": "Teste\\ScoreServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:58:15.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Service\\ClienteService.cs",
+              "RelativeToolTip": "Service\\Service\\ClienteService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:12.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScoreService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Service\\ScoreService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\ScoreService.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Service\\ScoreService.cs",
+              "RelativeToolTip": "Service\\Service\\ScoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:17.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Api\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Api\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:10:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IScoreService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Interface\\IScoreService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IScoreService.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Interface\\IScoreService.cs",
+              "RelativeToolTip": "Service\\Interface\\IScoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:10.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Interface\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Service\\Interface\\IClienteService.cs",
+              "RelativeToolTip": "Service\\Interface\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:09.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Api\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ScoreController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ProjetoScoreUser\\Api\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ScoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:39:01.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

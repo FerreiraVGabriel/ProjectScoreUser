@@ -1,0 +1,117 @@
+[
+  {
+    "ContainingType": "Api.Controllers.ClienteController",
+    "Method": "All",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Infra.Entities.Cliente, Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api.Controllers.ClienteController",
+    "Method": "Add",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "Infra.Entities.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.ClienteController",
+    "Method": "Update",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "Infra.Entities.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.ClienteController",
+    "Method": "ById",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Infra.Entities.Cliente",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api.Controllers.ClienteController",
+    "Method": "Delete",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.ScoreController",
+    "Method": "Calcular",
+    "RelativePath": "api/Score",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rendimentoAnual",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "idade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,21 @@
+-- Criação do banco de dados
+CREATE DATABASE ClienteScoreDB;
+GO
+
+USE ClienteScoreDB;
+GO
+
+-- Criação da tabela Clientes
+CREATE TABLE Clientes (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nome NVARCHAR(100) NOT NULL,
+    DataNascimento DATE NOT NULL,
+    CPF CHAR(11) NOT NULL UNIQUE,
+    Email NVARCHAR(100) NOT NULL,
+    RendimentoAnual DECIMAL(18,2) NOT NULL,
+    Estado CHAR(2) NOT NULL,
+    DDD CHAR(2) NOT NULL,
+    Telefone NVARCHAR(15) NOT NULL,
+    DateCreated DATETIME DEFAULT GETDATE(),
+    DateUpdated DATETIME NULL
+);
